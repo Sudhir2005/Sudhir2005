@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 ### <div align="center">I'm Sudhir R, an Information Technology Student👨‍💻Currently Expertising In Artificial Intelligence and Machine Learning  🚀</div>  
   

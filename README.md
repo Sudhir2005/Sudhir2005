@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on Machine Learning.  
   
 
-- 🌱 I’m currently learning About Linear Regression Algorithms.  
+- 🌱 I’m currently learning About Many Learning Algorithms in Detail.  
   
 
 - ❓ Ask me about anything related to Front End Technologies In Full Stack  

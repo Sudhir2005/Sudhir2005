@@ -1,9 +1,12 @@
 
 
 ### <div align="center">I'm Sudhir R, an Information Technology Student👨‍💻Currently Expertising In Front End Technology, Artificial Intelligence and Machine Learning  🚀</div>  
-  
 
-- 🔭 I’m currently working on Machine Learning.  
+
+- 🧑‍💻 Experienced as an Intern in Front-End Technology(React.js,Node.js).
+- 
+
+- 🔭 I’m currently working on Artificial Intelligence and Machine Learning.  
   
 
 - 🌱 I’m currently learning About Many Learning Algorithms in Detail.  

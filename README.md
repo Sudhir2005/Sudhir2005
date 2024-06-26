@@ -1,6 +1,6 @@
 
 
-### <div align="center">I'm Sudhir R, an Information Technology Student👨‍💻Currently Expertising In Artificial Intelligence and Machine Learning  🚀</div>  
+### <div align="center">I'm Sudhir R, an Information Technology Student👨‍💻Currently Expertising In Front End Technology, Artificial Intelligence and Machine Learning  🚀</div>  
   
 
 - 🔭 I’m currently working on Machine Learning.  
